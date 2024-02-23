@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/homor/Desktop/Project Demo-20240219T132112Z-001/WarehouseRobot/WarehouseRobotV0.2/WarehouseRobot
+# Install script for directory: D:/Projects/OOP-group-project/WarehouseRobot
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/homor/Desktop/Project Demo-20240219T132112Z-001/WarehouseRobot/WarehouseRobotV0.2/WarehouseRobot/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Projects/OOP-group-project/WarehouseRobot/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

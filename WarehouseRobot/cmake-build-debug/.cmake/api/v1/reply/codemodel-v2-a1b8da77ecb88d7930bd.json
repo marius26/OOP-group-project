@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "WarehouseRobot::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-WarehouseRobot-Debug-b717346b2b384657ff93.json",
+					"jsonFile" : "target-WarehouseRobot-Debug-c74d04140129dc5582aa.json",
 					"name" : "WarehouseRobot",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/homor/Desktop/Project Demo-20240219T132112Z-001/WarehouseRobot/WarehouseRobotV0.2/WarehouseRobot/cmake-build-debug",
-		"source" : "C:/Users/homor/Desktop/Project Demo-20240219T132112Z-001/WarehouseRobot/WarehouseRobotV0.2/WarehouseRobot"
+		"build" : "D:/Projects/OOP-group-project/WarehouseRobot/cmake-build-debug",
+		"source" : "D:/Projects/OOP-group-project/WarehouseRobot"
 	},
 	"version" : 
 	{
