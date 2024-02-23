@@ -1,10 +1,8 @@
-
 #define OLC_PGE_APPLICATION
 #include "olcPixelGameEngine.h"
 #include "WarehouseMap.h" // Include the map header
 
-class WarehouseSimulator : public olc::PixelGameEngine
-{
+class WarehouseSimulator : public olc::PixelGameEngine {
 public:
     WarehouseSimulator() {
         sAppName = "Warehouse path finder";
@@ -18,6 +16,7 @@ private:
 public:
     bool OnUserCreate() override {
         // Called once at the start
+        playerPos = {50.0f, 50.0f};
         return true;
     }
 
@@ -39,7 +38,7 @@ public:
         newPos.x = std::clamp(newPos.x, 0.0f, (float)ScreenWidth() - playerSize.x);
         newPos.y = std::clamp(newPos.y, 0.0f, (float)ScreenHeight() - playerSize.y);
 
-// Simple collision detection against map walls and shelves (values 1 and 2)
+        // Simple collision detection against map walls and shelves (values 1 and 2)
         bool canMove = true;
         for (int y = 0; y < MAP_HEIGHT; y++) {
             for (int x = 0; x < MAP_WIDTH; x++) {
@@ -48,7 +47,7 @@ public:
                 if (tile == 1 || tile == 2) {
                     olc::vf2d tilePos = {x * 40.0f, y * 40.0f};
                     olc::vf2d tileSize = {40.0f, 40.0f};
-                    if (IsColliding(newPos + direction, playerSize, tilePos, tileSize)) {
+                    if (IsColliding(newPos, playerSize, tilePos, tileSize)) {
                         canMove = false; // Collision detected, prevent movement
                         break;
                     }
@@ -61,6 +60,9 @@ public:
             // Update player position only if no collision was detected
             playerPos = newPos;
         }
+
+        // Handle user input for modifying the map
+        WarehouseMap::HandleInput(this);
 
         // Drawing
         Clear(olc::BLACK);
