@@ -7,7 +7,7 @@ class WarehouseSimulator : public olc::PixelGameEngine
 {
 public:
     WarehouseSimulator() {
-        sAppName = "Warehouse Simulator";
+        sAppName = "Warehouse path finder";
     }
 
 private:
