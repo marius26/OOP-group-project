@@ -1,0 +1,20 @@
+# ninja log v5
+1	272	7303954249692403	build.ninja	4e9a47e65e5dae63
+7	7232	7303865317542906	CMakeFiles/WarehouseRobot.dir/main.cpp.obj	d8c8808757c3415a
+7233	8772	7303865333080662	WarehouseRobot.exe	4977a6514e4891a9
+2	8023	7303954372265318	CMakeFiles/WarehouseRobot.dir/main.cpp.obj	c671a23b1ead122d
+8029	10544	7303954397470647	WarehouseRobot.exe	6cd759faaad242bf
+4	4833	7303962325088695	CMakeFiles/WarehouseRobot.dir/main.cpp.obj	c671a23b1ead122d
+4834	6414	7303962340956263	WarehouseRobot.exe	6cd759faaad242bf
+4	5838	7303962558193254	CMakeFiles/WarehouseRobot.dir/main.cpp.obj	c671a23b1ead122d
+5839	7510	7303962574972271	WarehouseRobot.exe	6cd759faaad242bf
+5	5023	7303965524242764	CMakeFiles/WarehouseRobot.dir/main.cpp.obj	c671a23b1ead122d
+5024	6581	7303965539867048	WarehouseRobot.exe	6cd759faaad242bf
+5	5385	7303965725545821	CMakeFiles/WarehouseRobot.dir/main.cpp.obj	c671a23b1ead122d
+5386	7001	7303965741762795	WarehouseRobot.exe	6cd759faaad242bf
+6	5065	7303966863566514	CMakeFiles/WarehouseRobot.dir/main.cpp.obj	c671a23b1ead122d
+5066	6623	7303966879214328	WarehouseRobot.exe	6cd759faaad242bf
+8	5256	7303967051925629	CMakeFiles/WarehouseRobot.dir/main.cpp.obj	c671a23b1ead122d
+5257	7062	7303967069995609	WarehouseRobot.exe	6cd759faaad242bf
+5	5861	7303967262175698	CMakeFiles/WarehouseRobot.dir/main.cpp.obj	c671a23b1ead122d
+5861	7458	7303967278182552	WarehouseRobot.exe	6cd759faaad242bf

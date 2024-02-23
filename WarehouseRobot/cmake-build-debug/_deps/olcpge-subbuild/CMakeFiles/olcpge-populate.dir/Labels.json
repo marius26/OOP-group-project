@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Rafal/Documents/Ulster University Year 4/Object Oriented Programming - EEE507/WarehouseRobot/cmake-build-debug/_deps/olcpge-subbuild/CMakeFiles/olcpge-populate"
+		},
+		{
+			"file" : "C:/Users/Rafal/Documents/Ulster University Year 4/Object Oriented Programming - EEE507/WarehouseRobot/cmake-build-debug/_deps/olcpge-subbuild/CMakeFiles/olcpge-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Rafal/Documents/Ulster University Year 4/Object Oriented Programming - EEE507/WarehouseRobot/cmake-build-debug/_deps/olcpge-subbuild/CMakeFiles/olcpge-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Rafal/Documents/Ulster University Year 4/Object Oriented Programming - EEE507/WarehouseRobot/cmake-build-debug/_deps/olcpge-subbuild/olcpge-populate-prefix/src/olcpge-populate-stamp/olcpge-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Rafal/Documents/Ulster University Year 4/Object Oriented Programming - EEE507/WarehouseRobot/cmake-build-debug/_deps/olcpge-subbuild/olcpge-populate-prefix/src/olcpge-populate-stamp/olcpge-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Rafal/Documents/Ulster University Year 4/Object Oriented Programming - EEE507/WarehouseRobot/cmake-build-debug/_deps/olcpge-subbuild/olcpge-populate-prefix/src/olcpge-populate-stamp/olcpge-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Rafal/Documents/Ulster University Year 4/Object Oriented Programming - EEE507/WarehouseRobot/cmake-build-debug/_deps/olcpge-subbuild/olcpge-populate-prefix/src/olcpge-populate-stamp/olcpge-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Rafal/Documents/Ulster University Year 4/Object Oriented Programming - EEE507/WarehouseRobot/cmake-build-debug/_deps/olcpge-subbuild/olcpge-populate-prefix/src/olcpge-populate-stamp/olcpge-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Rafal/Documents/Ulster University Year 4/Object Oriented Programming - EEE507/WarehouseRobot/cmake-build-debug/_deps/olcpge-subbuild/olcpge-populate-prefix/src/olcpge-populate-stamp/olcpge-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Rafal/Documents/Ulster University Year 4/Object Oriented Programming - EEE507/WarehouseRobot/cmake-build-debug/_deps/olcpge-subbuild/olcpge-populate-prefix/src/olcpge-populate-stamp/olcpge-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Rafal/Documents/Ulster University Year 4/Object Oriented Programming - EEE507/WarehouseRobot/cmake-build-debug/_deps/olcpge-subbuild/olcpge-populate-prefix/src/olcpge-populate-stamp/olcpge-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"olcpge-populate"
+		],
+		"name" : "olcpge-populate"
+	}
+}
